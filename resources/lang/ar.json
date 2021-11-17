@@ -1,0 +1,33 @@
+{
+    "Name": "الاسم",
+    "end date": " تاريخ نهاية الاسبوع",
+    "start date": "تاريخ بداية الاسبوع ",
+    "week name":"اسم الاسبوع",
+    "show": "التفاصيل",
+    "delete": "حذف",
+    "edit": "تحرير",
+    "Add":"اضافة",
+    "select day": "اضافة يوم ",
+    "mission name": "اسم جهة المهمة",
+    "mission type": "طبيعة المهمة",
+    "ReportingTime date": "وقت وتاريخ التبيلغ",
+    "reporting method": "طريقة التبيلغ",
+    "checkOut time": "وقت الانطلاق",
+    "chekOut Location": "الانطلاق من",
+    "checkIn time": "وقت الوصول",
+    "finish time": "وقت الانتهاء",
+    "secCheckout time": "وقت المغادرة",
+    "chekOut address": "المغادرة الى ",
+    "mission status": "حالة المهمة",
+    "cost": "قيمة المواصلات ",
+    "Missions List": "قائمة المهمات",
+    "create new mission": "اضافة مهمة جديدة",
+    "created at": "تاريخ الانشاء",
+    "create new day": "اضافة يوم جديد",
+    "Days list": "قائمة الايام ",
+   "username": "المكلف بالمهمة",
+    "mission date": "تاريخ المهمة"
+
+
+
+}
